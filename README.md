@@ -47,5 +47,19 @@ The model successfully identifies individuals likely to earn >\$50K. It can be u
 - `data/`: Folder containing the dataset (excluded in public repo)
 - `README.md`: This file
 
+## Installation & Usage
+
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/aespinosa221120/census-income-classification.git
+   cd census-income-classification
+2. Installed Required Packages
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib seaborn
+3. Run the Jupyter Notebook
+   ```bash
+   jupyter notebook census-income-prediction.ipynb
+
+
 ## 🙌 Acknowledgments
 This project was developed as part of the Fall AID program under the ML Foundations curriculum.
